@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHRIS-ASUST100</Machine>
+    <WindowsUser>Chris</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a6437c41-75cd-42de-94bb-7061f3d7ef89</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\bin\Debug\OAuth2LinkedIn.exe">
+      <PackagePath>OAuth2LinkedIn.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Downloads\LinkedIn OAuth 2.0 Example with WebAuthenticationBroker and PasswordVault\C#\OAuth2LinkedIn\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

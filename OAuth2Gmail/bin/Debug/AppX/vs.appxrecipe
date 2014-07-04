@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHRIS-ASUST100</Machine>
+    <WindowsUser>Chris</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a6437c41-75cd-42de-94bb-7061f3d7ef89</PackageIdentityName>
+    <RegisteredManifestChecksum>4C566798336341814DE18192FD9108A6BC196369FD897902769179861A19DEB1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a6437c41-75cd-42de-94bb-7061f3d7ef89_1.1.0.0_neutral__s4thkhj8twfgt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a6437c41-75cd-42de-94bb-7061f3d7ef89_s4thkhj8twfgt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a6437c41-75cd-42de-94bb-7061f3d7ef89</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Karlkim</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-04T00:43:11.210</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\bin\Debug\OAuth2Gmail.exe">
+      <PackagePath>OAuth2Gmail.exe</PackagePath>
+      <Modified>2014-07-04T00:43:10.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-19T23:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-03T22:39:35.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-04-25T17:43:49.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-03T22:39:35.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Desktop\!!!\Code\GmailWindows8\OAuth2Gmail\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-03T23:04:09.324</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
