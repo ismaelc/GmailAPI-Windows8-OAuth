@@ -19,9 +19,12 @@ To use this code, you need to set up your Gmail API credentials from the Google 
 
 Once you have your keys, open `MainPage.xaml.cs` and insert the keys as below:
 
-        //TODO: Get your Consumer key and Secret - http://ismaelc.github.io/ConcurDisrupt/#getstarted
-        private string _consumerKey = "<insert your client ID>";
-        private string _consumerSecretKey = "<insert your client secret>";
+        //TODO: Enable the Gmail API in your Google Developer Console to get your credentials/keys
+        //LINK: https://developers.google.com/gmail/api/quickstart/quickstart-cs#step_1_enable_the_gmail_api
+
+        private string _consumerKey = "<client ID>";
+        private string _consumerSecretKey = "<client secret>";
+        private string _callbackUrl = "https://google.com//"; // Preferably a publicly accessible domain
 
 That's it.  Hit Run (F5).  You can view a video of the app running in a simulator [here](https://www.youtube.com/watch?v=1mJaKalv-5s).
 
